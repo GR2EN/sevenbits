@@ -1,2 +1,2 @@
-# sevenbits
-Репозиторий содержит выполненные задания.
+# Code formatter
+Required Java version: 1.8
