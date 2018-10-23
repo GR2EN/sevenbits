@@ -1,6 +1,7 @@
 # IntelliJ
 out/
 .idea/
+7bits-checkstyle.xml
 *.iml
 *.jar
 *.class
