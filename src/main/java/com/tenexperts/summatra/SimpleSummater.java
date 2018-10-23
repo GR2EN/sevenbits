@@ -17,7 +17,7 @@ public class SimpleSummater implements IArraySummater {
     public int sum(final int[] data) throws ArraySummaterException {
         if (data.length == 0) {
             // throw if data is empty
-            throw new ArraySummaterException();
+            throw new ArraySummaterException("Array can't be empty!");
         } else {
             int result = 0;
 
